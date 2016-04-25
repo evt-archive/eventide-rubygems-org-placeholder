@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name = 'eventide'
-  s.version = '0.0.0'
+  s.version = '0.0.0.0'
   s.summary = 'Placeholder for the eventide gem hosted on gemfury.com'
   s.description = 'This gem is hosted at https://gemfury.com/eventide. Use this source to install it. For help, see https://gemfury.com/l/gem-server.'
 
