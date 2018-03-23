@@ -1,1 +1,1 @@
-raise 'This gem is hosted at https://gemfury.com/eventide. Use this source to install it. For help, see https://gemfury.com/l/gem-server.'
+raise "This is not the package you're looking for. Please see https://eventide-project.org/install"
